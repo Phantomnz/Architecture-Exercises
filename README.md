@@ -32,4 +32,3 @@ WHAT I FOUND HARD: figuring out how to get token number
 
 QUESTIONS: Is there way to get rid of the massive spaces in output? Ali found the same issue so I'm wondering if anyone found a fix
 
-I could spend more time to get level 3 done but I don't have time to be lead of smth so I'll pass
